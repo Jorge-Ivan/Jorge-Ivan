@@ -50,8 +50,6 @@ Además, aplico principios SOLID en el desarrollo de software, y Docker para mej
 ## Conectate conmigo
 <a href="https://www.linkedin.com/in/jorgecarrillog" target="_blank"><img width="50" src="https://github.com/Jorge-Ivan/Jorge-Ivan/assets/6201380/f682456b-9c6b-4c23-ba02-6038dcdb5310" alt="Linkedin" title="Linkedin"/></a>
 
-- Linkedin: [![iconmonstr-linkedin-3](https://github.com/Jorge-Ivan/Jorge-Ivan/assets/6201380/a1b7730a-930c-48d4-b1f3-1fec6de9a0d0)]()
-
 <p align="center">
 	<img width="100%" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Coding%20With%20Love%20👨‍💻&width=800&height=200" alt="Codign with love" title="Codign with love"/>
 </p>
