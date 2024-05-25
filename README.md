@@ -1,9 +1,6 @@
-
-
-<div align="center">
-**![github-header-image](https://github.com/Jorge-Ivan/Jorge-Ivan/assets/6201380/44cccfac-d6a0-48a1-9030-10dd5502b184)** |
-</div>
-
+<p align="center">
+	<img width="100%" src="https://github.com/Jorge-Ivan/Jorge-Ivan/assets/6201380/44cccfac-d6a0-48a1-9030-10dd5502b184" alt="Jorge Ivan Carrillo" title="Jorge Ivan Carrillo"/>
+</p>
 
 ## Extracto
 
@@ -12,7 +9,7 @@ Soy un profesional dinámico y orientado al aprendizaje, lo cual me permite obte
 Además, aplico principios SOLID en el desarrollo de software, y Docker para mejorar el flujo de trabajo. Tengo experiencia en la mejora y refactorización de código existente, así como en la realización de pruebas funcionales. Utilizo SonarQube para el control de calidad del código y JMeter para pruebas de carga.
 
 ## Habilidades
-<div align="center">
+<p align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="SOAP" title="SOAP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -40,21 +37,21 @@ Además, aplico principios SOLID en el desarrollo de software, y Docker para mej
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
-</div>
+</p>
 
+--------------
 
--------------------
+## Intereses
+- :octocat: Aprendizaje continuo
+- :computer: Desarrollo de software
+- :rocket: Tecnologías emergentes
+- :airplane: Viajes
 
+## Conectate conmigo
+<a href="https://www.linkedin.com/in/jorgecarrillog" target="_blank"><img width="50" src="https://github.com/Jorge-Ivan/Jorge-Ivan/assets/6201380/f682456b-9c6b-4c23-ba02-6038dcdb5310" alt="Linkedin" title="Linkedin"/></a>
 
-##Intereses
-- Aprendizaje continuo
-- Desarrollo de software
-- Tecnologías emergentes
-- Viajes
-
-## Encuentrame en
-- Linkedin: [jorgecarrillog](www.linkedin.com/in/jorgecarrillog)
+- Linkedin: [![iconmonstr-linkedin-3](https://github.com/Jorge-Ivan/Jorge-Ivan/assets/6201380/a1b7730a-930c-48d4-b1f3-1fec6de9a0d0)]()
 
 <p align="center">
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Coding%20With%20Love%20👨‍💻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+	<img width="100%" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Coding%20With%20Love%20👨‍💻&width=800&height=200" alt="Codign with love" title="Codign with love"/>
 </p>
